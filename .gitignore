@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv*/
+private/
+results/runtime_cache/
+results/workflow_runs/
+results/recomputed/
+*.log

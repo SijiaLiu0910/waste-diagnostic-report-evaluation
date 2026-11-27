@@ -1,0 +1,43 @@
+﻿dataset,image_id,redacted_region_count,redaction_categories,method
+B,S01-B-05.jpg,1,Contact details or possible numbers,Soft-edged local Gaussian blur
+B,S03-B-03.jpg,3,Manually selected region; Head or upper body,Soft-edged local Gaussian blur
+B,S03-B-04.jpg,1,Barcode,Soft-edged local Gaussian blur
+B,S04-A-03.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S04-A-05.jpg,1,Contact details or possible numbers,Soft-edged local Gaussian blur
+B,S04-B-01.jpg,1,Contact details or possible numbers,Soft-edged local Gaussian blur
+B,S04-B-05.jpg,6,Contact details or possible numbers; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S05-A-04.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S05-B-01.jpg,2,Manually selected region; Head or upper body,Soft-edged local Gaussian blur
+B,S05-B-02.jpg,2,Contact details or possible numbers; Person or identifier region,Soft-edged local Gaussian blur
+B,S05-B-04.jpg,1,Head or upper body,Soft-edged local Gaussian blur
+B,S05-B-05.jpg,4,Person or identifier region; Manually selected region; Head or upper body,Soft-edged local Gaussian blur
+B,S06-A-03.jpg,2,Head or upper body; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S06-B-01.jpg,6,Contact details or possible numbers; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S06-B-02.jpg,2,Contact details or possible numbers; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S07-A-01.jpg,1,Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S07-B-02.jpg,1,Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S07-B-03.jpg,2,Contact details or possible numbers; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S09-A-01.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S09-A-03.jpg,1,Head or upper body,Soft-edged local Gaussian blur
+B,S09-A-04.jpg,3,Contact details or possible numbers; Head or upper body; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S09-A-05.jpg,2,Manually selected region; Head or upper body,Soft-edged local Gaussian blur
+B,S09-B-03.jpg,1,Vehicle or object identifier,Soft-edged local Gaussian blur
+B,S09-B-04.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S10-A-01.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S10-B-02.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S10-B-05.jpg,2,Manually selected region; Head or upper body,Soft-edged local Gaussian blur
+B,S11-A-02.jpg,1,Head or upper body,Soft-edged local Gaussian blur
+B,S11-A-05.jpg,1,Face,Soft-edged local Gaussian blur
+B,S12-A-01.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S12-A-02.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S13-A-01.jpg,2,Head or upper body,Soft-edged local Gaussian blur
+B,S13-A-05.jpg,2,Person or identifier region; Manually selected region,Soft-edged local Gaussian blur
+B,S13-B-01.jpg,1,Head or upper body,Soft-edged local Gaussian blur
+B,S13-B-02.jpg,1,Contact details or possible numbers,Soft-edged local Gaussian blur
+B,S14-A-01.jpg,2,Head or upper body,Soft-edged local Gaussian blur
+B,S14-A-02.jpg,2,Contact details or possible numbers; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S14-A-03.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S14-A-05.jpg,2,Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S14-B-02.jpg,1,Manually selected region,Soft-edged local Gaussian blur
+B,S14-B-04.jpg,4,Head or upper body; Vehicle plate or other identifier,Soft-edged local Gaussian blur
+B,S15-A-01.jpg,1,Head or upper body,Soft-edged local Gaussian blur

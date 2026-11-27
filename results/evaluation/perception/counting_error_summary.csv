@@ -1,0 +1,17 @@
+﻿group,class,valid_images,total_true_count,total_predicted_count,MAE
+A(MLLM),overflow,150,13,20,0.1
+,no_overflow,150,109,129,0.2933
+,waste,150,40,70,0.2667
+,Overall (three classes),150,162,219,0.22
+B(MLLM+RAG),overflow,150,13,20,0.1
+,no_overflow,150,109,130,0.3
+,waste,150,40,68,0.2533
+,Overall (three classes),150,162,218,0.2178
+C(YOLO+LLM),overflow,150,13,64,0.3667
+,no_overflow,150,109,84,0.38
+,waste,150,40,52,0.3333
+,Overall (three classes),150,162,200,0.36
+D(YOLO+LLM+RAG),overflow,150,13,64,0.3667
+,no_overflow,150,109,84,0.38
+,waste,150,40,52,0.3333
+,Overall (three classes),150,162,200,0.36

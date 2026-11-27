@@ -1,0 +1,7 @@
+# Inference and validation environment: Python 3.9.6.
+numpy==1.26.4
+Pillow==11.3.0
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.4.203
+PyYAML==6.0.3

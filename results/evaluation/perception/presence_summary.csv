@@ -1,0 +1,23 @@
+﻿group,class,evaluation_units,TP,FP,FN,TN,Precision,Recall,F1
+A(MLLM),overflow,150,8,7,2,133,0.5333,0.8,0.64
+,no_overflow,150,59,9,1,81,0.8676,0.9833,0.9219
+,waste,150,33,18,4,95,0.6471,0.8919,0.75
+,Overall (macro),,,,,,0.6827,0.8917,0.7706
+,Overall (micro),450,100,34,7,309,0.7463,0.9346,0.8299
+B(MLLM+RAG),overflow,150,8,7,2,133,0.5333,0.8,0.64
+,no_overflow,150,59,9,1,81,0.8676,0.9833,0.9219
+,waste,150,33,17,4,96,0.66,0.8919,0.7586
+,Overall (macro),,,,,,0.687,0.8917,0.7735
+,Overall (micro),450,100,33,7,310,0.7519,0.9346,0.8333
+C(YOLO+LLM),overflow,150,9,40,1,100,0.1837,0.9,0.3051
+,no_overflow,150,39,11,21,79,0.78,0.65,0.7091
+,waste,150,20,20,17,93,0.5,0.5405,0.5195
+,Overall (macro),,,,,,0.4879,0.6968,0.5112
+,Overall (micro),450,68,71,39,272,0.4892,0.6355,0.5528
+D(YOLO+LLM+RAG),overflow,150,9,40,1,100,0.1837,0.9,0.3051
+,no_overflow,150,39,11,21,79,0.78,0.65,0.7091
+,waste,150,20,20,17,93,0.5,0.5405,0.5195
+,Overall (macro),,,,,,0.4879,0.6968,0.5112
+,Overall (micro),450,68,71,39,272,0.4892,0.6355,0.5528
+
+Note: evaluation units = images × classes. Each group contains 150 images: 150 units per class and 450 units across all three classes for micro metrics.

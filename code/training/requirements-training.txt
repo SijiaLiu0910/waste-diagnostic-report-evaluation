@@ -1,0 +1,2 @@
+# Ultralytics version used for model training.
+ultralytics==8.3.26

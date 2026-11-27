@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+  <version>1.1</version>
+  <image id="0" name="S01-A-01.jpg" width="3099" height="2324">
+    <box label="overflow" source="manual" occluded="0" xtl="573.92" ytl="865.30" xbr="989.52" ybr="997.90" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1309.86" ytl="876.81" xbr="1686.72" ybr="1016.39" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="124.13" ytl="1008.37" xbr="776.66" ybr="1943.55" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="967.89" ytl="866.34" xbr="1316.84" ybr="1005.92" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2045.01" ytl="959.61" xbr="2697.54" ybr="1894.79" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="699.89" ytl="1015.34" xbr="1226.81" ybr="1912.14" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1179.60" ytl="1020.68" xbr="1661.20" ybr="1917.48" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1657.70" ytl="985.78" xbr="2153.20" ybr="1882.58" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="S01-A-02.jpg" width="4031" height="3023">
+    <box label="waste" source="manual" occluded="0" xtl="478.90" ytl="519.30" xbr="3846.90" ybr="2308.10" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="S01-A-03.jpg" width="2742" height="2056">
+    <box label="no_overflow" source="manual" occluded="0" xtl="605.32" ytl="367.31" xbr="2327.92" ybr="1907.76" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="S01-A-04.jpg" width="4031" height="3023">
+    <box label="waste" source="manual" occluded="0" xtl="1541.04" ytl="986.82" xbr="2503.30" ybr="2285.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="S01-A-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="2610.71" ytl="662.82" xbr="3418.93" ybr="1044.23" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="317.74" ytl="767.25" xbr="1698.07" ybr="2360.98" z_order="0">
+    </box>
+    <box label="overflow" source="manual" occluded="0" xtl="1334.82" ytl="839.90" xbr="2460.88" ybr="2524.44" z_order="0">
+    </box>
+    <box label="overflow" source="manual" occluded="0" xtl="2351.90" ytl="853.52" xbr="3514.28" ybr="2610.71" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1820.66" ytl="644.66" xbr="2633.42" ybr="1003.36" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="S01-B-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1715.32" ytl="1050.13" xbr="2759.64" ybr="1590.45" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="S01-B-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1257.63" ytl="703.69" xbr="3110.17" ybr="2578.93" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="S01-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="8" name="S01-B-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1153.20" ytl="667.36" xbr="2924.01" ybr="2674.28" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="S01-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="10" name="S02-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1098.71" ytl="758.17" xbr="2955.79" ybr="2878.61" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="S02-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1216.77" ytl="926.17" xbr="3196.44" ybr="2710.61" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="S02-A-03.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1425.63" ytl="1316.66" xbr="2765.09" ybr="2510.82" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="S02-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1103.25" ytl="749.09" xbr="2365.52" ybr="2183.90" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="2297.42" ytl="1589.09" xbr="3078.39" ybr="2415.47" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="S02-A-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1443.79" ytl="808.12" xbr="2842.28" ybr="2851.36" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="S02-B-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1094.17" ytl="1089.63" xbr="2197.52" ybr="2647.04" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="2129.42" ytl="1266.71" xbr="2751.47" ybr="2252.01" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="S02-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="17" name="S02-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="18" name="S02-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="19" name="S02-B-05.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1207.69" ytl="767.25" xbr="2338.28" ybr="1820.66" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="S03-A-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="666.45" ytl="355.43" xbr="3377.16" ybr="2466.78" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="S03-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="994.28" ytl="599.25" xbr="3332.66" ybr="2860.44" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="S03-A-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="771.79" ytl="1080.55" xbr="1888.77" ybr="2288.34" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="2497.20" ytl="1094.17" xbr="3210.07" ybr="2029.52" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1248.55" ytl="63.47" xbr="2696.98" ybr="2170.28" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="S03-A-04.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="758.17" ytl="562.93" xbr="3128.34" ybr="2469.96" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="S03-A-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1402.93" ytl="1203.15" xbr="2538.07" ybr="2524.44" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="S03-B-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1139.58" ytl="1230.39" xbr="2342.82" ybr="2660.66" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="S03-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="27" name="S03-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="28" name="S03-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="29" name="S03-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="30" name="S04-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="2206.61" ytl="939.79" xbr="3532.44" ybr="2969.42" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="812.66" ytl="749.09" xbr="1852.44" ybr="2433.63" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="S04-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1325.74" ytl="721.85" xbr="2851.36" ybr="2719.69" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="S04-A-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="33" name="S04-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1244.01" ytl="626.50" xbr="3278.17" ybr="2715.15" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="1493.74" ytl="1861.52" xbr="2129.42" ybr="2637.96" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="S04-A-05.jpg" width="4032" height="3024">
+    <box label="overflow" source="manual" occluded="0" xtl="1489.20" ytl="835.36" xbr="2774.17" ybr="2765.09" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="S04-B-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="417.63" ytl="544.77" xbr="3991.04" ybr="2183.90" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="S04-B-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1402.93" ytl="799.04" xbr="2156.66" ybr="1947.79" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2510.82" ytl="821.74" xbr="3618.71" ybr="2433.63" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="331.36" ytl="1016.98" xbr="1239.47" ybr="1788.88" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="1607.25" ytl="1498.28" xbr="2706.07" ybr="2569.85" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="3095.64" ytl="2198.89" xbr="3922.02" ybr="3011.64" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="S04-B-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="825.43" ytl="654.69" xbr="3131.74" ybr="2961.00" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="S04-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="39" name="S04-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="40" name="S05-A-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1186.35" ytl="1812.05" xbr="2168.76" ybr="2857.50" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1491.06" ytl="582.72" xbr="2867.48" ybr="2053.71" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="S05-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1307.18" ytl="929.45" xbr="2935.78" ybr="2605.33" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="S05-A-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="43" name="S05-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1438.52" ytl="656.27" xbr="2494.48" ybr="2463.49" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="S05-A-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1617.14" ytl="756.08" xbr="2462.96" ybr="2347.91" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="S05-B-01.jpg" width="4032" height="3024">
+  </image>
+  <image id="46" name="S05-B-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1785.25" ytl="1003.00" xbr="2420.93" ybr="2248.09" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="S05-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="48" name="S05-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="49" name="S05-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="50" name="S06-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1580.37" ytl="1228.90" xbr="2904.26" ybr="3024.00" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2725.64" ytl="1286.69" xbr="4032.00" ybr="3020.36" z_order="0">
+    </box>
+    <box label="overflow" source="manual" occluded="0" xtl="209.19" ytl="871.66" xbr="1727.46" ybr="3024.00" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="S06-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="3035.60" ytl="1460.06" xbr="4032.00" ybr="3024.00" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2200.28" ytl="1470.57" xbr="3088.13" ybr="3024.00" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1286.17" ytl="1517.85" xbr="2258.07" ybr="3020.36" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="0.00" ytl="1523.10" xbr="1296.67" ybr="3024.00" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="S06-A-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="53" name="S06-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1139.07" ytl="257.00" xbr="2557.53" ybr="2962.57" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="S06-A-05.jpg" width="4032" height="3024">
+    <box label="overflow" source="manual" occluded="0" xtl="104.12" ytl="1024.01" xbr="1380.73" ybr="2678.88" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="230.20" ytl="918.94" xbr="1112.80" ybr="1118.58" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="939.43" ytl="840.14" xbr="1669.68" ybr="1974.91" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1590.87" ytl="929.45" xbr="2110.97" ybr="1312.96" z_order="0">
+    </box>
+    <box label="overflow" source="manual" occluded="0" xtl="1144.32" ytl="1150.10" xbr="2478.72" ybr="2941.56" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2941.03" ytl="960.97" xbr="3986.49" ybr="2452.98" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2384.16" ytl="1118.58" xbr="3744.83" ybr="2810.22" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="S06-B-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1049.76" ytl="561.70" xbr="3077.63" ybr="2705.15" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="S06-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="57" name="S06-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="58" name="S06-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="59" name="S06-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="60" name="S07-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1023.49" ytl="608.98" xbr="3093.39" ybr="3024.00" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="S07-A-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="62" name="S07-A-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1476.03" ytl="862.15" xbr="2960.80" ybr="2764.60" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="S07-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="35.82" ytl="939.96" xbr="1270.41" ybr="1969.65" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1070.77" ytl="887.42" xbr="2242.31" ybr="1549.37" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1433.27" ytl="1118.58" xbr="3082.88" ybr="3024.00" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="266.98" ytl="1491.58" xbr="2226.55" ybr="3015.11" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="S07-A-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="65" name="S07-B-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="592.70" ytl="756.08" xbr="3429.61" ybr="2878.52" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="S07-B-02.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1086.53" ytl="498.66" xbr="3030.34" ybr="2374.18" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="S07-B-03.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="781.83" ytl="587.97" xbr="3298.28" ybr="2815.47" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="S07-B-04.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1512.07" ytl="1365.50" xbr="3492.66" ybr="3024.00" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="S07-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="70" name="S08-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1023.49" ytl="955.72" xbr="3061.87" ybr="2657.87" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="S08-A-02.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="871.14" ytl="1123.83" xbr="2793.93" ybr="2442.47" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="S08-A-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1102.29" ytl="960.97" xbr="3361.32" ybr="2400.44" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="S08-A-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="74" name="S08-A-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="75" name="S08-B-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="986.71" ytl="446.12" xbr="3187.95" ybr="2778.70" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="S08-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="77" name="S08-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="78" name="S08-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="79" name="S08-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="80" name="S09-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="88.36" ytl="608.98" xbr="3997.00" ybr="2878.52" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="S09-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="88.36" ytl="388.30" xbr="3997.00" ybr="2936.30" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="S09-A-03.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="293.25" ytl="777.10" xbr="4032.00" ybr="2615.84" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="S09-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="914.82" ytl="1094.17" xbr="3598.28" ybr="2447.25" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="S09-A-05.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1961.87" ytl="1920.10" xbr="3078.84" ybr="2832.75" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="692.52" ytl="0.00" xbr="3272.01" ybr="2111.50" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="S09-B-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="976.21" ytl="556.45" xbr="3708.05" ybr="2589.57" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="S09-B-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="0.00" ytl="992.49" xbr="918.42" ybr="1943.39" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="424.59" ytl="1092.31" xbr="1123.31" ybr="2158.78" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="923.67" ytl="1092.31" xbr="1722.21" ybr="2269.11" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1454.28" ytl="1155.35" xbr="2289.59" ybr="2431.97" z_order="0">
+    </box>
+    <box label="overflow" source="manual" occluded="0" xtl="2210.79" ytl="1186.80" xbr="3103.89" ybr="2757.69" z_order="0">
+    </box>
+    <box label="overflow" source="manual" occluded="0" xtl="3103.89" ytl="1197.38" xbr="4032.00" ybr="3020.36" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="S09-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="88" name="S09-B-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="2904.26" ytl="1160.61" xbr="4032.00" ybr="3024.00" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="0.36" ytl="821.29" xbr="2706.52" ybr="3024.00" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="S09-B-05.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1044.50" ytl="708.80" xbr="2988.32" ybr="2400.44" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="S10-A-01.jpg" width="4032" height="3024">
+  </image>
+  <image id="91" name="S10-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="2037.98" ytl="1042.30" xbr="2667.37" ybr="2050.93" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1546.80" ytl="1063.30" xbr="2176.18" ybr="1961.63" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1168.50" ytl="1176.22" xbr="1629.80" ybr="1890.71" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="511.78" ytl="1008.11" xbr="1199.00" ybr="1801.40" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="0.00" ytl="945.21" xbr="561.18" ybr="1659.69" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="3301.45" ytl="1113.17" xbr="4020.17" ybr="2268.97" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2626.38" ytl="1068.50" xbr="3345.10" ybr="2224.29" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="S10-A-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="93" name="S10-A-04.jpg" width="3387" height="2540">
+    <box label="waste" source="manual" occluded="0" xtl="1799.98" ytl="359.68" xbr="3370.90" ybr="2155.64" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="S10-A-05.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="886.90" ytl="1302.45" xbr="2909.51" ybr="2274.36" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="S10-B-01.jpg" width="4032" height="3024">
+  </image>
+  <image id="96" name="S10-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="97" name="S10-B-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1431.16" ytl="1851.97" xbr="2728.79" ybr="2634.75" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="S10-B-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1280.91" ytl="1071.30" xbr="1995.40" ybr="2437.22" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1963.91" ytl="1065.90" xbr="2730.90" ybr="2431.82" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="S10-B-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="2423.60" ytl="1165.70" xbr="3448.04" ybr="2799.57" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="624.22" ytl="1097.56" xbr="1648.66" ybr="2694.64" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1593.54" ytl="1134.20" xbr="2617.98" ybr="2731.27" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="S11-A-01.jpg" width="4032" height="3024">
+  </image>
+  <image id="101" name="S11-A-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="729.29" ytl="246.49" xbr="1343.96" ybr="1071.30" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1291.42" ytl="25.84" xbr="1732.72" ybr="414.60" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1133.81" ytl="377.83" xbr="1843.04" ybr="1407.52" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1385.98" ytl="509.17" xbr="2174.02" ybr="1596.65" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1596.13" ytl="661.52" xbr="2568.03" ybr="1885.60" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2783.43" ytl="1071.30" xbr="4028.52" ybr="2825.98" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="S11-A-03.jpg" width="4032" height="3024">
+    <box label="overflow" source="manual" occluded="0" xtl="1438.52" ytl="1139.59" xbr="2673.10" ybr="2757.69" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="S11-A-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="104" name="S11-A-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="105" name="S11-B-01.jpg" width="4032" height="3024">
+  </image>
+  <image id="106" name="S11-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="107" name="S11-B-03.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="855.38" ytl="257.00" xbr="3298.28" ybr="2510.77" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="S11-B-04.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="561.20" ytl="188.70" xbr="4032.00" ybr="3020.36" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="S11-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="110" name="S12-A-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="389.94" ytl="745.91" xbr="3650.04" ybr="2748.29" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="S12-A-02.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="307.43" ytl="1979.63" xbr="1447.45" ybr="2694.12" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2135.67" ytl="976.21" xbr="3055.04" ybr="2289.59" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="3007.75" ytl="902.66" xbr="3874.59" ybr="1969.13" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2655.77" ytl="970.95" xbr="3569.88" ybr="2131.99" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1505.24" ytl="981.46" xbr="2534.93" ybr="2489.23" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="S12-A-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="697.13" ytl="773.81" xbr="2905.85" ybr="2399.00" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="S12-A-04.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1137.49" ytl="445.60" xbr="2965.73" ybr="2499.74" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="S12-A-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="528.08" ytl="1491.06" xbr="1190.03" ybr="2568.03" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1074.34" ytl="1556.90" xbr="1736.29" ybr="2555.08" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1554.10" ytl="1583.66" xbr="2216.05" ybr="2581.83" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2675.50" ytl="1643.77" xbr="3263.92" ybr="2594.74" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="2101.16" ytl="1608.88" xbr="2689.58" ybr="2559.84" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="0.00" ytl="1545.42" xbr="581.39" ybr="2514.75" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="S12-B-01.jpg" width="4032" height="3024">
+  </image>
+  <image id="116" name="S12-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="117" name="S12-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="118" name="S12-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="119" name="S12-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="120" name="S13-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="974.63" ytl="393.06" xbr="3007.75" ybr="2594.30" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="S13-A-02.jpg" width="4032" height="3024">
+    <box label="overflow" source="manual" occluded="0" xtl="932.60" ytl="435.09" xbr="3196.88" ybr="2704.62" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="S13-A-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="0.00" ytl="954.66" xbr="4032.00" ybr="2589.49" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="S13-A-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="124" name="S13-A-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="125" name="S13-B-01.jpg" width="4032" height="3024">
+    <box label="overflow" source="manual" occluded="0" xtl="501.81" ytl="156.65" xbr="2797.61" ybr="2373.65" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="2445.62" ytl="1527.83" xbr="3375.50" ybr="2510.24" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="S13-B-02.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1011.41" ytl="0.00" xbr="3929.00" ybr="2893.75" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="S13-B-03.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1226.80" ytl="330.02" xbr="3301.95" ybr="2420.93" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="S13-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="129" name="S13-B-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="130" name="S14-A-01.jpg" width="3664" height="2748">
+    <box label="no_overflow" source="manual" occluded="0" xtl="670.61" ytl="272.44" xbr="3043.13" ybr="2471.67" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="S14-A-02.jpg" width="4032" height="3024">
+    <box label="overflow" source="manual" occluded="0" xtl="843.29" ytl="0.00" xbr="2976.23" ybr="2983.06" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="S14-A-03.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="943.11" ytl="492.88" xbr="4032.00" ybr="3024.00" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="S14-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="979.89" ytl="450.85" xbr="2351.06" ybr="2331.62" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="1988.57" ytl="550.67" xbr="3396.52" ybr="2688.86" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="S14-A-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="135" name="S14-B-01.jpg" width="4032" height="3024">
+    <box label="waste" source="manual" occluded="0" xtl="1295.10" ytl="750.31" xbr="2771.34" ybr="2000.65" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="S14-B-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="137" name="S14-B-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="138" name="S14-B-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="890.58" ytl="387.81" xbr="3154.90" ybr="3014.58" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="S14-B-05.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1274.08" ytl="503.39" xbr="2986.74" ybr="2631.07" z_order="0">
+    </box>
+    <box label="no_overflow" source="manual" occluded="0" xtl="648.91" ytl="235.46" xbr="2077.88" ybr="2237.06" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="2456.13" ytl="1422.76" xbr="3433.29" ybr="2788.68" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="S15-A-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="648.91" ytl="808.10" xbr="3548.87" ybr="2478.72" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="S15-A-02.jpg" width="4032" height="3024">
+  </image>
+  <image id="142" name="S15-A-03.jpg" width="4032" height="3024">
+  </image>
+  <image id="143" name="S15-A-04.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="701.45" ytl="939.43" xbr="3433.29" ybr="2541.76" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="S15-A-05.jpg" width="4032" height="3024">
+  </image>
+  <image id="145" name="S15-B-01.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1347.63" ytl="1181.10" xbr="2634.75" ybr="2494.48" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="S15-B-02.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="1594.55" ytl="529.66" xbr="3149.60" ybr="2153.00" z_order="0">
+    </box>
+    <box label="waste" source="manual" occluded="0" xtl="753.98" ytl="1464.79" xbr="1526.25" ybr="2284.34" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="S15-B-03.jpg" width="4032" height="3024">
+    <box label="no_overflow" source="manual" occluded="0" xtl="606.88" ytl="892.15" xbr="3265.18" ybr="2941.03" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="S15-B-04.jpg" width="4032" height="3024">
+  </image>
+  <image id="149" name="S15-B-05.jpg" width="4032" height="3024">
+  </image>
+</annotations>
